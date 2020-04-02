@@ -57,22 +57,17 @@
         >
 
         <Button
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:layout_marginLeft="20dp"
-            android:background="@drawable/radius"
-            android:text="패키지 여행" />
-
-        <Button
-            android:layout_width="100dp"
+            android:layout_width="150dp"
             android:layout_height="50dp"
             android:layout_marginLeft="40dp"
+            android:gravity="center"
             android:background="@drawable/radius"
             android:text="해외" />
         <Button
-            android:layout_width="100dp"
+            android:layout_width="150dp"
             android:layout_height="50dp"
             android:layout_marginLeft="40dp"
+            android:gravity="center"
             android:background="@drawable/radius"
             android:text="국내" />
     </LinearLayout>
