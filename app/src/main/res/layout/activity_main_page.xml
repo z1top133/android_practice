@@ -22,8 +22,8 @@
             android:layout_width="290dp"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="Mochila"
-            android:textSize="50dp"
+            android:text="모여봐요 여행의 숲"
+            android:textSize="30dp"
             android:textStyle="bold"
             android:textColor="#FFC107"/>
 
