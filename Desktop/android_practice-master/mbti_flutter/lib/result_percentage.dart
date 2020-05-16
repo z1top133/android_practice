@@ -1,0 +1,1 @@
+List<dynamic> result_percentage = [0,0,0,0];
